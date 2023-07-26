@@ -1,7 +1,7 @@
-for download of this tool need enter this string on the terminal
+For download of this tool you need enter this string on the terminal
 >Usage
 
-    python3 [nome file]
+    python3 [name file]
 
 >Example
 
